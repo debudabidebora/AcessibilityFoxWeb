@@ -14,6 +14,7 @@ h1 {
 p {
     margin: 20px;
     text-indent: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #logo > img {
@@ -39,6 +40,7 @@ header > h1 {
     letter-spacing: 3px;
     padding: 5px;
     margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #logo {
@@ -50,6 +52,7 @@ nav {
     font-size: 1.25em;
     text-align: center;
     padding: 3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav > a {
     color: white;
@@ -58,6 +61,7 @@ nav > a {
 }
 nav > a:hover {
     font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
@@ -79,10 +83,12 @@ article > h1 {
     margin: 5px;
     font-size: 1.75em;
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 article > p {
     margin: 10px;
     text-indent: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 article > p > a {
     color: white;
@@ -103,6 +109,7 @@ article > p > a:hover {
     text-align: right;
     font-size: 1.25em;
     margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #download_extensao {
@@ -132,8 +139,10 @@ footer {
     text-align: center;
     padding: 3px;
     margin-top: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 footer > p {
     padding: 0px;
     margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
